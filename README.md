@@ -5,7 +5,7 @@ Leetcode has built-in packages and nodes, so we don't do extra operations like g
 
 The initial plan is to sort out and update all the leetcode problem solutions in order to give you a convenient place to brush the algorithm problem. The follow-up plan is to update the algorithmic interview questions of each major factory.
 
-Time is limited, about 5-10 questions are updated every day.
+Time is limited, about 5-15 questions are updated every two day.
 
 I only use code comments because I think, as a programmer, code is comments. If you do not understand the code of the train of thought is excusable, may be I wrote the logic is not clear enough. But if you still can't understand the comments on the side of the code, you should consider learning the basics of the data structure first, rather than blindly brushing questions.
 
@@ -21,7 +21,7 @@ Leetcode内置包和节点，这里不做导包等多余操作。
 
 初步计划按顺序整理更新所有的leetcode题解，给大家一个方便刷算法题的地方。 后续计划更新各大厂的算法面试题。
 
-时间有限，每天大概更新5-10题。
+时间有限，两天一更，一次5-15题。
 
 这里只采用代码注释的方法，是因为本人觉得，作为一个程序员，代码即注释。 如果看不懂代码的思路情有可原，可能是本人写的不够逻辑清晰。 但是如果在代码的旁边加上注释还是看不懂的话，应该先考虑学好数据结构基础，而不是盲目的刷题。
 
